@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/PatilShreyas/PatilShreyas/blob/master/welcome.png?raw=true" height="200" />
-</p>
-
 ### Hi there 👋 I'm [Arindam](https://arindamxd.github.io/)!
 ![Profile views](https://gpvc.arturio.dev/arindamxd)
 
