@@ -11,10 +11,9 @@
 - Loves 🎵 and :camera_flash:.
 - From 🇮🇳.
 
-<details>
-  <summary><b>Github Stats</b> :bar_chart:</summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arindamxd&count_private=true&show_icons=true&include_all_commits=true" alt="Arindam Karmakar | Stats" />
-</details>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arindamxd&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" alt="Arindam Karmakar | Stats" />
+</p>
 
 
 #### Let's connect 🔗
