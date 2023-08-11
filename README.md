@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Arindam](https://arindamxd.github.io/)!
-![Profile views](https://gpvc.arturio.dev/arindamxd)
+![Profile views](https://komarev.com/ghpvc/?username=arindamxd&label=PROFILE+VIEWS&style=for-the-badge&color=green)
 
 
 #### Welcome to my hub :gem:
