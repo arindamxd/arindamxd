@@ -10,7 +10,7 @@ I'm Arindam Karmakar. I work as a Technical Lead Engineer and in my free time, I
 - 🏫 MS Ramaiah Institute of Technology alumnus
 - 🌱 Currently learning KMM app development
 - 📱 Mostly working on Android, Kotlin and Swift
-- 👯 I’m looking to collaborate with other Android/iOS developers and I am looking for open-source projects to contribute on
+- 👯 I’m looking to collaborate with other Android/iOS developers and also looking for open-source projects to contribute on
 - Loves 🎵 and :camera_flash:
 - 🇮🇳 From India
 
