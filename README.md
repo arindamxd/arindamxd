@@ -12,7 +12,7 @@ I'm Arindam Karmakar. I work as a Technical Lead Engineer and in my free time, I
 - 📱 Mostly working on Android, Kotlin and Swift
 - 👯 I’m looking to collaborate with other Android/iOS developers and also looking for open-source projects to contribute on
 - Loves 🎵 and :camera_flash:
-- 🇮🇳 From India
+- From 🇮🇳
 
 
 ### 🤝🏻 Connect, Follow, Subscribe
