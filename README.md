@@ -22,7 +22,7 @@ I'm Arindam Karmakar. I work as a Technical Lead Engineer and in my free time, I
 [![Google Play](https://img.shields.io/badge/-playstore-dardgreen?style=for-the-badge&logo=Google-Play)](https://play.google.com/store/apps/dev?id=8427782270571014251)
 
 
-### 📲 Latest Android Apps
+### 📲 Latest Projects
 
-- [CameraX](https://play.google.com/store/apps/details?id=com.arindam.camerax)
+- [CameraX (android)](https://play.google.com/store/apps/details?id=com.arindam.camerax)
 
