@@ -24,5 +24,5 @@ I'm Arindam Karmakar. I work as a Technical Lead Engineer and in my free time, I
 
 ### 📲 Latest Projects
 
-- [CameraX (android)](https://play.google.com/store/apps/details?id=com.arindam.camerax)
+- [CameraX](https://play.google.com/store/apps/details?id=com.arindam.camerax) (Android)
 
