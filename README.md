@@ -8,7 +8,7 @@ I'm Arindam. I work as a Tech Lead Engineer and in my free time, I contribute to
 ### ⚡️ A quick introduction
 - 💻 Techical Lead, KreditBee
 - 🏫 Ramaiah Institute of Technology (MSRIT) alumnus
-- 🌱 Currently learning cross platform  and KMM app development
+- 🌱 Currently learning cross platform app development with KMM
 - 📱 Mostly writing on Kotlin and Swift
 - 👯 I’m looking to collaborate with other Android/iOS developers and open-source projects to contribute on
 - Loves 🎵 and :camera_flash:
