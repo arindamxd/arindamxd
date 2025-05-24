@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there!+I+am+Arindam+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 I'm Arindam. I work as a Tech Lead Engineer and in my free time, I contribute to open-source, create apps, and publish them to the Play Store.
 
