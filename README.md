@@ -6,7 +6,7 @@ I'm Arindam. I work as a Lead Engineer, and in my free time, I contribute to ope
 
 
 ### ⚡️ A quick introduction
-- 💻 Technical Lead, KreditBee
+- 💻 Technical Lead
 - 🏫 NSHM & MSRIT alumnus
 - 🌱 Currently learning cross-platform app development with KMP
 - 📱 Mostly writing in Kotlin and Swift
