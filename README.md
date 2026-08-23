@@ -23,7 +23,7 @@ I lead mobile engineering across Android, iOS, and Flutter — shipping real-wor
 
 ### Featured project
 
-- **[CameraX](https://play.google.com/store/apps/details?id=com.arindam.camerax)** — Open-source Android camera demo built with CameraX APIs in Kotlin · [100K+ downloads](https://play.google.com/store/apps/details?id=com.arindam.camerax) · [source](https://github.com/arindamxd/android-camerax)
+- **[CameraX](https://play.google.com/store/apps/details?id=com.arindam.camerax)** — Open-source Android camera demo built with CameraX APIs in Kotlin · [100K+ downloads](https://play.google.com/store/apps/details?id=com.arindam.camerax) · [source](https://github.com/arindamxd/camerax-android)
 
 More work and writing: [arindamxd.github.io](https://arindamxd.github.io/)
 
